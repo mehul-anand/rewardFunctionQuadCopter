@@ -51,6 +51,3 @@ for _ in range(100):
 - The environment state is a 12D vector: position, angles, velocities, and angular velocities.
 - The action is a 4D vector, typically representing motor commands.
 - The reward penalizes deviation from the goal state and large actions.
-
-## License
-MIT License
